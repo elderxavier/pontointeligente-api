@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PomtointeligenteApplication {
+public class PontoInteligenteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PomtointeligenteApplication.class, args);
+		SpringApplication.run(PontoInteligenteApplication.class, args);
 	}
 
 }
